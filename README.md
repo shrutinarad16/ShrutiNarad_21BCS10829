@@ -1,8 +1,8 @@
 # WebWizardry
-. E-Learning Platform for Students.In this phase, students need to make a website that contains various modules of learning materials.
+E-Learning Platform for Students - In this phase, students need to make a website that contains various modules of learning materials.
 
 ## Team Details
-### Team Member 1
+### Team Leader
 Leader : Shruti Manohar Narad
 
 UID    : 21BCS10829
