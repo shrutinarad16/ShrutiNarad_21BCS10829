@@ -14,7 +14,7 @@ Member 1 : Harshit Kumar
 
 UID    : 21BCS11130
 
-Contact Number: +91 77546929538
+Contact Number: +91 7546929538
 
 ### Team Member 3
 Member 1 : Aryan Raj
