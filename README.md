@@ -9,14 +9,14 @@ UID    : 21BCS10829
 
 Contact Number: +91 9588688900
 
-#### Team Member 2
+#### Team Member 1
 Member 1 : Harshit Kumar
 
 UID    : 21BCS11130
 
 Contact Number: +91 7546929538
 
-#### Team Member 3
+#### Team Member 2
 Member 1 : Aryan Raj
 
 UID    : 21BCS10996
