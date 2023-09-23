@@ -1,6 +1,6 @@
 # Team Name: Solum
 E-Learning Platform for Students - In this phase, students need to make a website that contains various modules of learning materials.
-
+## WebWizardry Hackathon in Chandigarh University
 ## Team Details
 ### Team Leader: Shruti Manohar Narad. UID: 21BCS10829. Contact Number: 9588688900
 #### Team Member 1
